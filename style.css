@@ -84,12 +84,21 @@ main {
 .sounds {
     display: grid;
     grid-template-areas: 
+    "p p"
     "forest rain"
     "cafe fire";
     gap: 3.2rem;
 
     opacity: 0;
     animation: leftRight 1100ms 300ms ease forwards;
+}
+.instructions {
+    grid-area: p;
+    max-width: 33rem;
+
+    font-size: 2rem;
+    line-height: 2.5rem;
+    text-align: center;
 }
 
 .sounds button {
