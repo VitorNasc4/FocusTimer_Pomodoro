@@ -23,8 +23,7 @@ A timer made to help you with your studies using the Pomodoro technique. It supp
  
 ## Demonstration
 
-
-
+![demo](https://user-images.githubusercontent.com/101666833/186966591-0e6f2282-1454-45f4-8eb1-627e6241ad8b.gif)
 
 ## References
 
